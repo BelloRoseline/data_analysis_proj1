@@ -1,0 +1,32 @@
+Date,Client,Contact,Department,Payment,Revenue,Profit,Profit Margin
+5/30/2023,AMAZON.COM INC. (XNAS:AMZN),     Bill SmITH,Cloud Tech_Texas,Transfer,4500,598,0.13
+5/30/2023,TESLA INC. (XNAS:TSLA),KEN Singh,Strategy_New York,PayPal,3800,1045,0.28
+5/30/2023,NETFLIX INC. (XNAS:NFLX),  Harley        Fritz,Strategy_New York,,3713,1009,0.27
+5/30/2023,THE PROCTER & GAMBLE COMPANY (XNYS:PG),Nyla Novak,Operations_Florida,,,779,#DIV/0!
+5/30/2023,THE GOLDMAN SACHS GROUP INC. (XNYS:GS),David    Rasmussen,Operations_Florida,Check,5000,684,0.14
+5/31/2023,JPMORGAN CHASE & CO. (XNYS:JPM),IVAN HINEY,Cloud Tech_Texas,Transfer,6100,544,0.09
+5/31/2023,MORGAN STANLEY (XNYS:MS),JONha Ma,Cloud Tech_Texas,Transfer,4625,670,0.15
+5/31/2023,CITIGROUP INC. (XNYS:C),     Jordan Boone,Cloud Tech_Texas,Transfer,3800,2045,0.54
+5/31/2023,BANK OF AMERICA CORPORATION (XNYS:BAC),Kylee Townsend,Cloud Tech_Texas,Card,3600,1564,0.43
+5/31/2023,WALMART INC. (XNYS:WMT),Nora Rollins,Cloud Tech_Texas,Check,5100,1220,0.24
+5/31/2023,TARGET CORPORATION (XNYS:TGT),BRENDAN Wallace,Cloud Tech_Texas,Check,4750,1435,0.3
+5/31/2023,COSTCO WHOLESALE CORPORATION (XNAS:COST),     Conor Wise,Operations_Florida,Transfer,6000,998,0.17
+5/31/2023,MCDONALD'S CORPORATION (XNYS:MCD),Steven     MIChael,Big Data_California,Check,4500,780,0.17
+6/1/2023,EXXON MOBIL CORPORATION (XNYS:XOM),Lucia Mckay,Big Data_California,Card,,1044,#DIV/0!
+6/1/2023,VERIZON COMMUNICATIONS INC. (XNYS:VZ),JoSE   Roach,Big Data_California,Transfer,3713,1222,0.33
+6/1/2023,THE HOME DEPOT INC. (XNYS:HD),Franklin WRIGT,Big Data_California,Transfer,4950,1065,0.22
+6/1/2023,CISCO SYSTEMS INC. (XNAS:CSCO),   Alia       Thornton,Operations_Florida,Transfer,4750,810,0.17
+6/1/2023,CHEVRON CORPORATION (XNYS:CVX),Denzel        Flores,Operations_Florida,Transfer,7320,933,0.13
+5/31/2023,COSTCO WHOLESALE CORPORATION (XNAS:COST),     Conor Wise,Operations_Florida,Transfer,6000,998,0.17
+5/31/2023,MCDONALD'S CORPORATION (XNYS:MCD),Steven     MIChael,Big Data_California,Check,4500,780,0.17
+6/1/2023,AT&T INC. (XNYS:T),Bruno CordOVA,Big Data_California,Transfer,5088,655,0.13
+6/1/2023,INTEL CORPORATION (XNAS:INTC),jaylynn   napp,Big Data_California,Transfer,4500,722,0.16
+6/1/2023,GENERAL MOTORS COMPANY (XNYS:GM),Bruce RICH,Big Data_California,Card,4250,901,0.21
+6/2/2023,MICROSOFT CORPORATION (XNAS:MSFT),     Arturo Moore,Big Data_California,PayPal,5250,1349,0.26
+6/2/2023,COMCAST CORPORATION (XNAS:CMCSA),Bryce     Carpenter,Strategy_New York,PayPal,6500,1288,0.2
+6/2/2023,DELL TECHNOLOGIES INC. (XNYS:DELL),Jaidyn ANDERSEN,Strategy_New York,PayPal,7500,1664,0.22
+6/2/2023,JOHNSON & JOHNSON (XNYS:JNJ),MARK WALM,Strategy_New York,Transfer,5500,1320,0.24
+6/2/2023,FEDEX CORPORATION (XNYS:FDX),HARRY LEE,Strategy_New York,Transfer,4625,1001,0.22
+6/2/2023,GENERAL ELECTRIC COMPANY (XNYS:GE),JOSH JOHNSON,Strategy_New York,Transfer,4500,960,0.21
+6/2/2023,LOCKHEED MARTIN CORPORATION (XNYS:LMT),Mik Naam,Strategy_New York,Card,5400,540,0.1
+5/30/2023,THE GOLDMAN SACHS GROUP INC. (XNYS:GS),David    Rasmussen,Operations_Florida,Check,5000,684,0.14
